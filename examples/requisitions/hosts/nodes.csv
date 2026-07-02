@@ -1,0 +1,4 @@
+id,name,ip,location,vendor
+1,router-fulda-1,192.0.2.1,Fulda,Acme
+2,switch-fulda-1,192.0.2.2,Fulda,Globex
+3,router-berlin-1,198.51.100.1,Berlin,Acme

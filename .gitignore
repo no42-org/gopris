@@ -1,0 +1,7 @@
+# Build artifacts
+/bin/
+/_state/
+
+# AI tools
+_bmad-output/
+_bmad/

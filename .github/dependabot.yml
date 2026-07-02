@@ -1,0 +1,14 @@
+# Copyright 2026 The OpenNMS Group, Inc.
+# SPDX-License-Identifier: MIT
+# Created by Ronny Trommer <ronny@opennms.com>
+
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly
+  - package-ecosystem: gomod
+    directory: "/"
+    schedule:
+      interval: weekly
