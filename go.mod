@@ -5,7 +5,7 @@ go 1.26.4
 require (
 	github.com/xuri/excelize/v2 v2.11.0
 	go.starlark.net v0.0.0-20260630144053-529d8e869a14
-	golang.org/x/sync v0.22.0
+	golang.org/x/sync v0.23.0
 	gopkg.in/yaml.v3 v3.0.1
 	modernc.org/sqlite v1.57.0
 )
